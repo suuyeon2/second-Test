@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("test");
         System.out.println("hi");
         System.out.println("bye");
+        System.out.println("팀원이 작성");
     }
 }
